@@ -24,9 +24,9 @@ toc: true
 
 --- 
 
-<span style="font-size: 24px;">IchinoseP // {{ age }}M // Indonesia 🇮🇩 // Weeaboo // Game Developer</span>
+<span style="font-size: 24px;">**IchinoseP // {{ age }}M // Indonesia 🇮🇩 // Weeaboo // Game Developer**</span>
 
-Supported languages: Bahasa Indonesia, English
+*Supported languages: Bahasa Indonesia, English*
 
 ---
 
