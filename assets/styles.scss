@@ -31,10 +31,7 @@
 @import "toc";
 @import "alignment";
 
-@import "syntax-light";
-@media (prefers-color-scheme: dark) {
-  @import "syntax-dark";
-}
+@import "syntax-dark";
 
 @font-face {
   font-family: "Highwind";
