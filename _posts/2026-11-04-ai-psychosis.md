@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Frustrated View of "AI Psychosis"
-date: 2026-04-11 03:00 +0700
+date: 2026-11-04 03:00 +0700
 tags:
   - AI
   - Rambling
