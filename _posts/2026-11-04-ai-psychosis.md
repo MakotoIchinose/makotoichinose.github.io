@@ -24,10 +24,10 @@ Before I go into the meat (or tofu) of this article, let's setup a few baseline 
 
 I also want to set baseline understanding about the term **"AI"** in broader sense as it's easy to be misinterpret.
 - The term **"AI"** in this article does **NOT** refer to procedural systems, including but not limited to:
-    - NPC behavior in video games,
-    - procedural content generation (PCG)
-    - procedural graphics
-    - procedural music
+ - NPC behavior in video games,
+ - procedural content generation (PCG)
+ - procedural graphics
+ - procedural music
 - While falls under the broader **AI** term, this article distinguishes these:
 	- **Large language model (LLM)**, which outputs text
 	- **generative AI**, which is generating auditory and visual content from text.
