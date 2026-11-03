@@ -7,9 +7,10 @@ tags:
   - Rambling
 toc: true
 ---
+
 > **WARNING:** This article goes into polarizing topics about AI and strong language some may view as offensive. Reader discretion is advised.
 
-> ※ If you have pathetically short attention span, [jump to my stance on AI in general](#my-stance-on-ai). Or just summarize this particular article into your beloved AI chatbot darling - you have my permission.
+> If you have pathetically short attention span, [jump to my stance on AI in general](#my-stance-on-ai). Or just summarize this particular article into your beloved AI chatbot darling - you have my permission.
 
 AI psychosis has hit a new low, and seeing it show up everywhere is getting annoying. Annoying enough that I have a shit ton of words to say about it, and not enough to fit in one go.
 
@@ -30,7 +31,8 @@ I also want to set baseline understanding about the term **"AI"** in broader sen
 - While falls under the broader **AI** term, this article distinguishes these:
 	- **Large language model (LLM)**, which outputs text
 	- **generative AI**, which is generating auditory and visual content from text.
-	- Machine 
+	- Machine
+
 ## Psychotic AI Evangelism
 
 I have lost count on how many accounts I see online on various social medias glazing AI like it's going to kill/replace some job sectors, *despite* the raw output being presented as final and they're genuinely utter shit beyond reasonable doubt. Those who called it utter shit because it looks objectively utter shit? They'd be called wrong on their face, and leave with L + ratio + cry bozo.
@@ -59,7 +61,7 @@ As if AI bros changed the quote in the title and beginning of the section to be:
 
 To end this section, I'll quote a particularly relevant quote from IBM Training Manual typed in 1979:
 
-![](../assets/blogpics/IBM79.png)
+![](https://raw.githubusercontent.com/MakotoIchinose/makotoichinose.github.io/refs/heads/public/assets/blogpics/IBM79.png)
 *If only schools that teaches AI taught this important lesson.*
 
 ### Fuck the Local Models
